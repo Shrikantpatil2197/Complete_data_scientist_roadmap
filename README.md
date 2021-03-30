@@ -1,4 +1,4 @@
-# complete_data_scientist_roadmap
+# Complete_data_scientist_roadmap
 This repository contains the complete roadmap i follow to become Data Scientist
 
 # Milestone1 (Start With Basics!)
