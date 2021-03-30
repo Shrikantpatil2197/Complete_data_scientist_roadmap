@@ -1,2 +1,6 @@
 # complete_data_scientist_roadmap
 This repository contains the complete roadmap i follow to become Data Scientist
+
+### <font color='red'>Milestone1<font/>
+  **Intermediate Pyhton**
+  ![image](https://user-images.githubusercontent.com/37009367/112979957-de7f8680-9176-11eb-9ae3-a0a4bd43e853.png)
