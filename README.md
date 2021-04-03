@@ -5,8 +5,8 @@ This repository contains the complete roadmap i follow to become Data Scientist
 
 # Course-0: Foundations of Probability in Python [13 March 2021]
 
-**Course Description:
-Probability is the study of regularities that emerge in the outcomes of random experiments. In this course, I learned about fundamental probability concepts like random variables (starting with the classic coin flip example) and how to calculate mean and variance, probability distributions, and conditional probability. Also explored two very important results in probability: the law of large numbers and the central limit theorem. Since probability is at the core of data science and machine learning, these concepts will help me understand and apply models more robustly. Chances are everywhere, and the study of probability will change the way we see the world.**
+### Course Description:
+**Probability is the study of regularities that emerge in the outcomes of random experiments. In this course, I learned about fundamental probability concepts like random variables (starting with the classic coin flip example) and how to calculate mean and variance, probability distributions, and conditional probability. Also explored two very important results in probability: the law of large numbers and the central limit theorem. Since probability is at the core of data science and machine learning, these concepts will help me understand and apply models more robustly. Chances are everywhere, and the study of probability will change the way we see the world.**
 content:
 1. Flipping Coins examples
 2. calculating probabilities in python
@@ -18,8 +18,8 @@ content:
 
 # Course-1: Introduction to python [24 March 2021]
  
- **Course Description:
-Python is a general-purpose programming language that is becoming ever more popular for data science. Companies worldwide are using Python to harvest insights from their data and gain a competitive edge. Unlike other Python tutorials, this course focuses on Python specifically for data science. In this Introduction to Python course, i practiced the powerful ways to store and manipulate data, and helpful data science tools to begin conducting my own analyses.**
+ ### Course Description:
+**Python is a general-purpose programming language that is becoming ever more popular for data science. Companies worldwide are using Python to harvest insights from their data and gain a competitive edge. Unlike other Python tutorials, this course focuses on Python specifically for data science. In this Introduction to Python course, i practiced the powerful ways to store and manipulate data, and helpful data science tools to begin conducting my own analyses.**
 content:
 1. Python Basics
 2. Python Lists
@@ -30,8 +30,8 @@ content:
 
 # Course-2: InterMediate Python [3 April 2021]
 
-**Course Description:
-Learning Python is crucial for any aspiring data science practitioner. In this course I Learned to visualize real data with Matplotlib's functions and get acquainted with data structures such as the dictionary and the pandas DataFrame. After covering key concepts such as boolean logic, control flow, and loops in Python, I blended together everything I have learned to solve a case study using hacker statistics.**
+### Course Description:
+**Learning Python is crucial for any aspiring data science practitioner. In this course I Learned to visualize real data with Matplotlib's functions and get acquainted with data structures such as the dictionary and the pandas DataFrame. After covering key concepts such as boolean logic, control flow, and loops in Python, I blended together everything I have learned to solve a case study using hacker statistics.**
 content:
 1. Matplotlib
 2. Dictionary
